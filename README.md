@@ -1,10 +1,22 @@
 ## Hi there 👋
-
+# Mi sitio personal
 <!--
-**Domaalva/Domaalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Domaalva/Domaalva** is a ✨ _special_ ✨ repository because here you can find information about me, my projects and my interests. 
 
-Here are some ideas to get you started:
 
+## Contenido
+* [Personal information](#information-personal)
+* [Projects](#projects)
+* [Interests](#Interests)
+
+## Personal information
+* Name: [Domenika Arboleda]
+* City: [Guayaquil]
+*Web page: [Tu sitio web]
+## Projects
+* [List of projects]
+## Interests
+* [List of interests]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
