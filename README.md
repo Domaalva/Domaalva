@@ -8,8 +8,8 @@ I enjoy creating interactive user experiences, writing clean code, and exploring
 ## 👩‍💻 About Me
 
 - 🏙️ **City:** Guayaquil  
-- 🏫 **Student at:** [Your University Name]  
-- 🖥️ **Main Tech Stack:** HTML · CSS · JavaScript · React · Node.js  
+- 🏫 **Student at:** [ESPOL]  
+- 🖥️ **Main Tech Stack:** HTML · CSS · Java · C · Node.js  
 - 🌐 **Website:** [https://your-portfolio.com](https://your-portfolio.com)  
 - 📧 **Institutional Email:** `yourname@university.edu.ec`
 
