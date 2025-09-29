@@ -9,9 +9,9 @@ I enjoy creating interactive user experiences, writing clean code, and exploring
 
 - 🏙️ **City:** Guayaquil  
 - 🏫 **Student at:** [ESPOL]  
-- 🖥️ **Main Tech Stack:** HTML · CSS · Java · C · Node.js  
-- 🌐 **Website:** [https://your-portfolio.com](https://your-portfolio.com)  
-- 📧 **Institutional Email:** `yourname@university.edu.ec`
+- 🖥️ **Main Tech Stack:** HTML · CSS · Java · C · Python  
+- 🌐 **Website:** [)  
+- 📧 **Institutional Email:** `domaalva@espol.edu.ec`
 
 ---
 
