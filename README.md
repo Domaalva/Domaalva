@@ -20,7 +20,7 @@ I enjoy creating interactive user experiences, writing clean code, and exploring
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects.
 
 Here are some of the things I've been working on:
 
