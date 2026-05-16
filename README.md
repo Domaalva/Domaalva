@@ -23,6 +23,8 @@ I enjoy learning new technologies, building creative projects, and improving my 
 
 ## 💻 Technologies & Tools
 
+## 💻 Technologies & Tools
+
 | Technology | Usage |
 |------------|--------|
 | Java | Used for developing object-oriented desktop games such as Chess and Domino. |
@@ -33,6 +35,8 @@ I enjoy learning new technologies, building creative projects, and improving my 
 | SQL | Used for database-related exercises and queries. |
 
 ---
+
+
 
 ## 🛠️ Projects
 
