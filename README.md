@@ -80,4 +80,4 @@ Here are some of the things I've been working on:
 
 Scan the QR code to visit my website.
 
-![QR Code](<img width="172" height="173" alt="qr-hw1" src="https://github.com/user-attachments/assets/d19e4887-c5c6-4283-a2dd-7688c7dad9df" />)
+![QR Code](qr-hw1.jpg)
