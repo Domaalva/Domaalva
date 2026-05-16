@@ -45,11 +45,10 @@ Here are some of the things I've been working on:
 
 | 🧩 Project            | 📄 Description                         | ⚙️ Tech               | 🚦 Status        | 🔗 Link                             |
 |-----------------------|-----------------------------------------|------------------------|------------------|-------------------------------------|
-| **Tic-Tac-Toe Game** | A desktop tic-tac-toe game focused on game logic| Java            | ✅ Finished      | 🔗 [View Project](https://github.com/Enrique2305-gif/Proyecto_estructuras-final) |
-| **Domino Game**  | A Java-based Domino game developed using object-oriented programming principles.| Java   | ✅ Finished     | 🔗 [View Project](https://github.com/dquishpe/proyectoPOO) |
-| **Generative AI Accessibility Research** | Research project focused on evaluating the accessibility of AI-generated web interfaces and studying accessibility compliance.
- | HTML   | 🚧 In Progress      | 🔗 [View Project](https://github.com/se0klie/study-cases) |
-| **Chess Game**       | A Java-based chess game focused on object-oriented programming and game mechanics. | Java   | ✅ Finished   | 🔗 [View Project](https://github.com/FiorellaQuijano/Proyecto-2POO) |
+| **Tic-Tac-Toe Game** | A desktop tic-tac-toe game focused on game logic| Java | ✅ Finished      | 🔗 [View Project](https://github.com/Enrique2305-gif/Proyecto_estructuras-final) |
+| **Domino Game**  | A Java-based Domino game developed using object-oriented programming principles.| Java | ✅ Finished     | 🔗 [View Project](https://github.com/dquishpe/proyectoPOO) |
+| **Generative AI Accessibility Research** | Research project focused on evaluating the accessibility of AI-generated web interfaces| HTML | 🚧 In Progress | 🔗 [View Project](https://github.com/se0klie/study-cases) |
+| **Chess Game**       | A Java-based chess game focused on object-oriented programming and game mechanics. | Java  | ✅ Finished  | 🔗 [View Project](https://github.com/FiorellaQuijano/Proyecto-2POO) |
 
 
 ---
