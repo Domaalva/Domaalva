@@ -1,11 +1,17 @@
 # 👋 Welcome to Domaalva's World!
 
-Hi there! I'm **Domenika Arboleda**, a passionate full-stack developer from **Guayaquil, Ecuador** 🇪🇨  
-I enjoy creating interactive user experiences, writing clean code, and exploring new tech.  
+#  Hi, I'm Domenika Arboleda
+
+🎓 Software Engineering Student  
+💻 Passionate about web development, accessibility, and programming  
+📍 Guayaquil, Ecuador  
 
 ---
 
-## 👩‍💻 About Me
+# 🌟 About Me
+
+I am a Software Engineering student interested in technology, web accessibility, and software development.  
+I enjoy learning new technologies, building creative projects, and improving my programming skills.
 
 - 🏙️ **City:** Guayaquil  
 - 🏫 **Student at:** [ESPOL]  
@@ -16,27 +22,42 @@ I enjoy creating interactive user experiences, writing clean code, and exploring
 ---
 
 ## ✨ Tech Toolbox
+## Programming Languages
+- C
+- Python
+- Java
+- MIPS
+- SQL
+- JavaScript
 
+## Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Linux
+- Canva
 
 ---
 
-## 🛠️ Projects.
+## 🛠️ Projects
 
 Here are some of the things I've been working on:
 
 | 🧩 Project            | 📄 Description                         | ⚙️ Tech               | 🚦 Status        | 🔗 Link                             |
 |-----------------------|-----------------------------------------|------------------------|------------------|-------------------------------------|
-| **Portfolio Website** | My personal portfolio and CV           | HTML, CSS, JavaScript | ✅ Finished      | [Live Demo](https://your-portfolio.com) |
-| **Task Manager App**  | Task CRUD app with Firebase            | React, Firebase        | 🛠️ In Progress   | [GitHub Repo](https://github.com/Domaalva/task-manager) |
-| **Weather API App**   | Weather forecast using OpenWeatherMap  | Node.js, Express       | ✅ Finished      | [GitHub Repo](https://github.com/Domaalva/weather-api) |
-| **Trivia Game**       | A fun educational game for kids        | JavaScript, Canvas     | 🧪 Testing       | [GitHub Repo](https://github.com/Domaalva/trivia-game) |
+| **Tic-Tac-Toe Game** | A desktop tic-tac-toe game focused on game logic| Java            | ✅ Finished      | 🔗 [View Project](https://github.com/Enrique2305-gif/Proyecto_estructuras-final) |
+| **Domino Game**  | A Java-based Domino game developed using object-oriented programming principles.| Java   | ✅ Finished     | 🔗 [View Project](https://github.com/dquishpe/proyectoPOO) |
+| **Generative AI Accessibility Research** | Research project focused on evaluating the accessibility of AI-generated web interfaces and studying accessibility compliance.
+ | HTML   | 🚧 In Progress      | 🔗 [View Project](https://github.com/se0klie/study-cases) |
+| **Chess Game**       | A Java-based chess game focused on object-oriented programming and game mechanics. | Java   | ✅ Finished   | 🔗 [View Project](https://github.com/FiorellaQuijano/Proyecto-2POO) |
+
 
 ---
 
 ## 🌱 Currently...
 
 - 🔭 Working on: A personal finance tracker  
-- 🌱 Learning: TypeScript and Next.js  
+- 🌱 Learning: Ruby, PHP and Go  
 - 🧪 Experimenting with: Unit testing using Jest  
 - 🧑‍🤝‍🧑 Looking to collaborate on: Open-source education tools  
 - 📬 Reach me via my institutional email  
@@ -44,23 +65,17 @@ Here are some of the things I've been working on:
 
 ---
 
-## 📸 Screenshots
+# 🏆 Certifications & Courses
 
-### 📷 Portfolio Website
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Website)
+- Software Engineering Courses
+- Programming Workshops
+- Networking Fundamentals
 
-### 🗃️ Task Manager App
-![Task Manager Screenshot](https://via.placeholder.com/800x400.png?text=Task+Manager+App)
-
----
-
-## 🔗 Quick Links
-
-- 🔹 [My Portfolio](https://your-portfolio.com)  
-- 🔹 [My GitHub](https://github.com/Domaalva)  
-- 🔹 [My LinkedIn](https://linkedin.com/in/yourname) _(optional)_  
-- 🔹 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Python](https://img.shields.io/badge/Python-3.12-green)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
 ---
 
 ## 🎨 Quote of the Day
