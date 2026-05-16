@@ -76,3 +76,8 @@ Here are some of the things I've been working on:
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 ---
+## 📱 QR Code
+
+Scan the QR code to visit my website.
+
+![QR Code](<img width="172" height="173" alt="qr-hw1" src="https://github.com/user-attachments/assets/d19e4887-c5c6-4283-a2dd-7688c7dad9df" />)
