@@ -16,7 +16,6 @@ I enjoy learning new technologies, building creative projects, and improving my 
 - 🏙️ **City:** Guayaquil  
 - 🏫 **Student at:** [ESPOL]  
 - 🖥️ **Main Tech Stack:** HTML · CSS · Java · C · Python  
-- 🌐 **Website:**[Visit my website] (https://domaalva.github.io/Domaalva/)  
 - 📧 **Institutional Email:** `domaalva@espol.edu.ec`
 
 ---
