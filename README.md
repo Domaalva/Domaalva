@@ -21,22 +21,16 @@ I enjoy learning new technologies, building creative projects, and improving my 
 
 ---
 
-## ✨ Tech Toolbox
-## Programming Languages
-- C
-- Python
-- Java
-- MIPS
-- SQL
-- JavaScript
+## 💻 Technologies & Tools
 
-## Tools
-- Git
-- GitHub
-- Visual Studio Code
-- Linux
-- Canva
-
+| Technology | Usage |
+|------------|--------|
+| Java | Used for developing object-oriented desktop games such as Chess and Domino. |
+| C | Used for low-level programming, file handling, and systems programming projects. |
+| HTML & CSS | Used for building and styling accessible web interfaces. |
+| Git & GitHub | Used for version control and collaborative development. |
+| Linux | Used for development environments and command-line practice. |
+| SQL | Used for database-related exercises and queries. |
 ---
 
 ## 🛠️ Projects
