@@ -80,4 +80,4 @@ Here are some of the things I've been working on:
 
 Scan the QR code to visit my website.
 
-![QR Code](qr-hw1.jpg)
+![QR Code](qr-hw1.png)
