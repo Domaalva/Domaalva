@@ -31,6 +31,7 @@ I enjoy learning new technologies, building creative projects, and improving my 
 | Git & GitHub | Used for version control and collaborative development. |
 | Linux | Used for development environments and command-line practice. |
 | SQL | Used for database-related exercises and queries. |
+
 ---
 
 ## 🛠️ Projects
@@ -69,6 +70,7 @@ Here are some of the things I've been working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Python](https://img.shields.io/badge/Python-3.12-green)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
+
 ---
 
 ## 🎨 Quote of the Day
